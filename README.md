@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Webpage
 
-[Click Here](https://rawcdn.githack.com/SmithVyne/appleClone/eb02e98835f5024cfb1c9fc0db44f6a22553f0e8/index.html)
+[Click Here](https://rawcdn.githack.com/SmithVyne/appleClone/89b12d7d03a516cf869f237a2f64620bd47a6c72/index.html)
 
 ## Authors
 
