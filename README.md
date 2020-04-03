@@ -4,7 +4,7 @@ This is a clone of the Apple web page [here](https://web.archive.org/web/2014030
 
 Additional description about the project and its features.
 
-![screenshot]()
+![screenshot](img/screenshot.jpg)
 ## Built With
 
 - HTML,
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Webpage
 
-[Click Here]()
+[Click Here](https://rawcdn.githack.com/SmithVyne/appleClone/89b12d7d03a516cf869f237a2f64620bd47a6c72/index.html)
 
 ## Authors
 
