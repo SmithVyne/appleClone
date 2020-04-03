@@ -22,6 +22,7 @@ nav {
   padding: 2px 0 2px 0;
   border-right: 1px solid;
   border-image: linear-gradient(to top, #bbb, #333, #333 50%, #bbb 50%, #bbb) 1 100%;
+  text-decoration: none;
 }
 
 .nav-start {
